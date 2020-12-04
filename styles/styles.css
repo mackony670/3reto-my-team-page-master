@@ -129,6 +129,9 @@ span {
   }
 }
 @media only screen and (min-width: 720px) {
+    h1{
+        text-align: start;
+    }
   .header {
     display: flex;
   }
